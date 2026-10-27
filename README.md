@@ -1,13 +1,17 @@
-[![unofficial Google Analytics for GitHub](https://gaforgithub.azurewebsites.net/api?repo=FlappyBirdStyleGame)](https://github.com/dgkanatsios/gaforgithub)
+# Flappy Bird Arcade Game
 
-# Flappy Bird style game
+> Planned Canvas2D arcade obstacle game featuring physics-based collision detection.
 
-![Developing the game](https://dgkanatsios.files.wordpress.com/2014/07/image_0d2036fe.png)
+## Project Status: `Planned / Under Construction`
+This repository is currently under construction. Implementation of the core game loop, sprite rendering, and collision mechanics is scheduled for upcoming milestones.
 
-Source code for a Flappy Bird style game built in Unity game engine. You can check the blog post explaining its creation [here](http://dgkanatsios.com/2014/07/02/a-flappy-bird-clone-in-unity-source-code-included-3/).
+## Planned Tech Stack
+- HTML5 Canvas
+- Vanilla JavaScript (ES6+)
+- CSS3 Arcade Layout
 
-It has been tested and developed on Unity 5.6.
-
-### Assets sources
-Sprites: https://www.spriters-resource.com/mobile/flappybird/sheet/59894/
-Sounds: https://www.sounds-resource.com/mobile/flappybird/sound/5309/
+## Author
+**Avish Jain**  
+- Email: avishjain412@gmail.com  
+- Portfolio: [https://avishjain9.github.io/portfolio/](https://avishjain9.github.io/portfolio/)  
+- GitHub: [@AVISHJAIN9](https://github.com/AVISHJAIN9)  
